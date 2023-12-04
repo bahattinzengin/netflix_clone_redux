@@ -1,3 +1,7 @@
+
+![ezgif com-video-to-gif (1)](https://github.com/bahattinzengin/netflix_clone_redux/assets/140658226/227d0390-5f22-40b3-a149-eca27d900f73)
+
+
 ## 1.basamak: 
 
 # KÜTÜPHANLER kurulumu
